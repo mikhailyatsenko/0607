@@ -141,9 +141,6 @@ export function Onboarding({ onComplete, onClose }: OnboardingProps) {
               Войти в клуб →
             </button>
 
-            <p className="mt-4 text-center text-[11px] text-muted-foreground">
-              Подсказка для теста: кодовое слово — «клуб»
-            </p>
           </>
         ) : (
           <>
